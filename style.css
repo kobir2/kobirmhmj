@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	
+	
+}
+
+.bg{
+	background-color: #ccc;
+	padding-top: 10px;
+
+}
+.bg1{
+	width: 15%;
+	
+}
+.bg2{
+	width: 60%;
+	border-radius:5px;
+		
+}
+.menu{
+	background-color:#00f;
+}
+.menu-b{
+	text-align:center;
+	
+}
+.menu-b a{
+	color: #fff;
+	
+	
+}
+
+.menu-b:hover{
+		color:#000;
+		background-color:#fff;
+		
+		
+}
+.menu-b a:hover{
+		color:#f00;	
+}
+
+
+
